@@ -1,15 +1,21 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
 @import url("https://fonts.googleapis.com/css2?family=Cedarville+Cursive&display=swap");
 
 @import url('https://fonts.googleapis.com/css2?family=Delius+Unicase:wght@400;700&family=Englebert&family=Pacifico&family=Playwrite+GB+S:ital,wght@0,100..400;1,100..400&display=swap');
 
 
-@tailwind base;
-@tailwind components;
-@tailwind utilities;
 
 body {
   @apply overflow-x-hidden;
 }
+
+* {
+  box-sizing: border-box;
+}
+
 
 .cursive {
   font-family: "Playwrite", cursive;
