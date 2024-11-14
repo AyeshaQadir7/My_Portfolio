@@ -25,19 +25,7 @@ export const Skill_data = [
   },
   {
     skill_name: "React",
-    Image: "/assets/react.png",
-    width: 80,
-    height: 80,
-  },
-  {
-    skill_name: "Redux",
-    Image: "/assets/redux.png",
-    width: 80,
-    height: 80,
-  },
-  {
-    skill_name: "React Query",
-    Image: "/assets/reactquery.png",
+    Image: "/assets/React.png",
     width: 80,
     height: 80,
   },
@@ -48,15 +36,8 @@ export const Skill_data = [
     height: 80,
   },
   {
-    skill_name: "Next js 13",
+    skill_name: "Next js 15",
     Image: "/assets/next.png",
-    width: 80,
-    height: 80,
-  },
-
-  {
-    skill_name: "Stripe Payment",
-    Image: "/assets/stripe.webp",
     width: 80,
     height: 80,
   },
@@ -66,12 +47,7 @@ export const Skill_data = [
     width: 80,
     height: 80,
   },
-  {
-    skill_name: "Mongo db",
-    Image: "/assets/mongodb.png",
-    width: 40,
-    height: 40,
-  },
+ 
 
 ];
 
@@ -83,7 +59,7 @@ export const Socials = [
   },
   {
     name: "GitHub",
-    src: "/assets/GitHub.png",
+    src: "/assets/Github.png",
     href: "https://github.com/AyeshaQadir7"
   },
 ];
@@ -117,7 +93,7 @@ export const Skills_01 = [
   },
   {
     skill_name: "React",
-    Image: "/assets/react.png",
+    Image: "/assets/React.png",
     width: 80,
     height: 80,
   },
