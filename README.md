@@ -2,7 +2,7 @@
 
 Welcome to my portfolio! This project showcases my skills, experience, and projects as a web developer.
 
-![Portfolio Preview](public/assets/previewimage.png)
+![Portfolio Preview](public/assets/preimage.png)
 
 **[Live Portfolio](https://ayeshaabdulqadir.vercel.app/)**
 
